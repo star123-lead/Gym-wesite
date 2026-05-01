@@ -9,7 +9,7 @@ A premium, high-converting, single-page website built for **Star City Fitness**,
 The website features a bold dark-theme aesthetic, smooth scroll animations, and a responsive mobile-first design to drive gym memberships and inquiries.
 
 ### 🔗 Live Demo
-**[Click here to view the live website](https://gym-wesite-xi.vercel.app/)**
+**[Click here to view the live website](https://star-project-gym.vercel.app/)**
 
 ---
 
@@ -42,4 +42,4 @@ Because this project is built entirely in a single file with CDN links, running 
 * GitHub: [@star123-lead](https://github.com/star123-lead)
 * LinkedIn: [Thangamani P](https://www.linkedin.com/in/thangamani-p-b694953ba)
 # Gym-wesite
-https://gym-wesite-xi.vercel.app/
+https://star-project-gym.vercel.app/
