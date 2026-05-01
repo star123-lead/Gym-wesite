@@ -31,7 +31,7 @@ The website features a bold dark-theme aesthetic, smooth scroll animations, and 
 
 ## 🚀 How to Run Locally
 Because this project is built entirely in a single file with CDN links, running it is incredibly simple:
-1. Clone this repository or download the ZIP file.
+1. Clone this repository or download the index file.
 2. Open the folder on your computer.
 3. Double-click the `index.html` file to open it in any web browser (Chrome, Firefox, Safari, Edge).
 
